@@ -1,0 +1,12 @@
+words=[
+    "honey",
+    "lavanya",
+    "amshuuu",
+    "sreeee",
+    "lakkuuu",
+    "banana",
+    "strawberry",
+    "attitude",
+    "mango",
+    "sahasra",
+    "keerthi"]
